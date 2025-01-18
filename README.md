@@ -1,6 +1,9 @@
 # Mental Health Support Chatbot
 
-The **Mental Health Support Chatbot** is designed to provide emotional and moral support through meaningful conversations. Utilizing **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques, the chatbot offers users a supportive, non-judgmental space to share their feelings and receive compassionate responses. The user-friendly interface is built using **Streamlit**.
+---
+
+## Project Overview
+This is my Infosys Springboard internship project. The **Mental Health Support Chatbot** is designed to provide emotional and moral support through meaningful conversations. Utilizing **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques, the chatbot offers users a supportive, non-judgmental space to share their feelings and receive compassionate responses. The user-friendly interface is built using **Streamlit**.
 
 ---
 
